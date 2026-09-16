@@ -5,5 +5,6 @@
 
 |FE|FE|
 |:--:|:--:|
-|<img width="81" height="83" alt="image" src="" />|<img width="81" height="83" alt="image" src="" />|
+|<img width="81" height="83" alt="profile" src="https://github.com/Jeongmokjin.png" />|<img width="81" height="83" alt="profile" src="https://github.com/hxx-dev.png" />|
 |[정목진](https://github.com/Jeongmokjin)|[양희창](https://github.com/hxx-dev)|
+|`@Jeongmokjin`|`@hxx-dev`|
